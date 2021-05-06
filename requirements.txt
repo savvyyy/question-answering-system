@@ -2,6 +2,6 @@ Flask==1.1.1
 flask-restful==0.3.7
 pysolr==3.8.1
 gensim==3.8.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 cdqa
 pandas
